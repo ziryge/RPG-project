@@ -1,2 +1,4 @@
 # RPG-project
-asd
+credits:ziryge
+ziryge ai
+geechleech242(aka mr bellavance)
